@@ -5,3 +5,5 @@
 Hi, I'm Steve. I spend my time developing in C#, Python, C++, Java, and other languages.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=steveberdy&show_icons=true&theme=dark&count_private=true)](https://github.com/steveberdy)
+
+# READY FOR .NET 7!!!!
