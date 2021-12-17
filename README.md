@@ -2,6 +2,6 @@
 ![Zeppelin#8684](https://img.shields.io/badge/Discord-Zeppelin%238684-7289DA?logo=discord)
 [![.NET Badge](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=c%20sharp&logoColor=white&link=https://dot.net)](https://dot.net)
 
-Hi, I'm Steve. I spend my time developing in C#, Python, C++, Java, and other languages. Contributing to open source is one of my pasttimes.
+Hi, I'm Steve. I spend my time developing in C#, Python, C++, Java, and other languages.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=steveberdy&show_icons=true&theme=dark&count_private=true)](https://github.com/steveberdy)
