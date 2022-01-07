@@ -4,4 +4,7 @@
 
 Hi, I'm Steve. I spend my time developing in C#, Python, C++, Java, and other languages.
 
+My code is now in the .NET 6 release! See the [contributors list](https://dotnet.microsoft.com/en-us/thanks/v6.0.0-rc.1).
+
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=steveberdy&show_icons=true&theme=dark&count_private=true)](https://github.com/steveberdy)
