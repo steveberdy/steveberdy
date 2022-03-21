@@ -7,3 +7,5 @@ My code is in the .NET 6 release! See the [contributors list](https://dotnet.mic
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=steveberdy&show_icons=true&theme=dark&count_private=true)](https://github.com/steveberdy)
+
+![Metrics](github-metrics.svg)
