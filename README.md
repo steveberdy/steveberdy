@@ -17,3 +17,5 @@ My code is in .NET 6! See the [contributors list](https://dotnet.microsoft.com/e
 ![Metrics](github-metrics.svg)
 
 ![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveberdy&count_private=true&show_icons=true&theme=dark)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
