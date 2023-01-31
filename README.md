@@ -8,14 +8,6 @@ My code is in .NET 6! See the [contributors list](https://dotnet.microsoft.com/e
 | --------- | --------- | ------
 | [![Languages](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=100&center=true&multiline=true&repeat=false&width=446&height=140&lines=C%23;Python;Javascript;C%2B%2B;Java)](https://github.com/steveberdy) | [![Platforms](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=100&center=true&multiline=true&repeat=false&width=446&height=160&lines=.NET;Node.js;React.js;Electron.js;Flask;.NET+Roslyn)](https://github.com/steveberdy) | [![Backend](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=100&center=true&multiline=true&repeat=false&width=446&height=200&lines=ASP.NET+Web+APIs;ASP.NET+MVC;Blazor+Server+%2F+Blazor+WASM;gRPC;WebSockets;Long-Polling;Flask+RESTful)](https://github.com/steveberdy)
 
-<div>
-<img src="https://img.shields.io/badge/JS-FFA500?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-800080?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-800020?style=for-the-badge&logo=java&logoColor=white"/>
-</div>
-
 ### 🎛 Metrics
 
 ![Metrics](github-metrics.svg)
