@@ -1,6 +1,8 @@
-Hi, I'm Steve. I like coffee and open source software.
+Hi, I'm Steve. I like drinking coffee and developing software.
 
-My code is in .NET 6! See the [contributors list](https://dotnet.microsoft.com/en-us/thanks/v6.0.0-rc.1).
+I most frequently program in Javascript, C# and Python, but C++ is growing on me!
+
+My code is in .NET 6 and above! See the [contributors list](https://dotnet.microsoft.com/en-us/thanks/6.0).
 
 | Languages | Platforms & Tools | Backend
 | --------- | --------- | ------
