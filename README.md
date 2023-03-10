@@ -1,6 +1,6 @@
 Hi, I'm Steve. I like drinking coffee and developing software.
 
-I most frequently program in Javascript, C# and Python, but C++ is growing on me!
+I most frequently program in C#, JavaScript, C++ and Python.
 
 My code is in .NET 6 and above! See the [contributors list](https://dotnet.microsoft.com/en-us/thanks/6.0).
 
