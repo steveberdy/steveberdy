@@ -13,12 +13,3 @@ My code is in .NET 6 and above! See the [contributors list](https://dotnet.micro
 Check out my nuget packages!
 - [OpenSky](https://www.nuget.org/packages/OpenSky/) - a wrapper for open, live air tracking data
 - [TfLApi](https://www.nuget.org/packages/TfLApi/) - a wrapper for Transport for London's expansive transport API **(version 2.0.0 coming soon!)**
-<br>
-
-### 🎛 Metrics
-
-![Metrics](github-metrics.svg)
-
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveberdy&count_private=true&show_icons=true&theme=dark)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
